@@ -5,7 +5,7 @@ __pycache__/
 
 # Shared objects
 *.so
-
+*.pkl
 # Distribution / packaging
 build/
 *.egg-info/
